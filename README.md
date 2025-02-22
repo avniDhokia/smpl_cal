@@ -56,6 +56,11 @@ Examples:
 ./smpl_cal.py add calendarName newEventTitle
 ```
 
+- Viewing events:
+```bash
+./smpl_cal.py view calendarName
+```
+
 
 ## License
 This project is licensed under the MIT License.
