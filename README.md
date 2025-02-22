@@ -12,9 +12,11 @@ A simple terminal calendar application, written in Python.
 - create and destroy calendars
 - add, view and delete events from calendars
 
+
 ## Requirements
 - Python
 - `argparse` (in Python's standard library)
+
 
 ## Installation
 1. Clone repository, ensuring `smpl_cal.py`, `Event.py` and `Calendar.py` are all present.
@@ -22,6 +24,7 @@ A simple terminal calendar application, written in Python.
 ```bash
   ./smpl_cal.py -h
 ```
+
 
 ## Usage
 To run, use ```bash
@@ -46,7 +49,7 @@ Examples:
 ./smpl_cal.py create calendarName
 ```
 
-- Lising all calendars:
+- Listing all calendars:
 ```bash
 ./smpl_cal.py ls
 ```
