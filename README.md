@@ -1,10 +1,10 @@
 # smpl_cal
 A simple terminal calendar application, written in Python.
 
-- [Features](##features)
-- [Requirements](##requirements)
-- [Installation](##installation)
-- [Usage](##usage)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
 - [License](#license)
 
 
@@ -31,13 +31,13 @@ To run, use ```bash
 
 
 Positional Arguments:
-    **`create`**: create a new calendar
-    **`destroy`**: destroy a calendar
-    **`ls`**: list all created alendars
-    **`view`**: view a calendar and its events
-    **`add`**: add an event to a calendar
-    **`edit`**: edit an event in a calendar
-    **`delete`**: delete an event from a calendar
+- **`create`**: create a new calendar
+- **`destroy`**: destroy a calendar
+- **`ls`**: list all created alendars
+- **`view`**: view a calendar and its events
+- **`add`**: add an event to a calendar
+- **`edit`**: edit an event in a calendar
+- **`delete`**: delete an event from a calendar
 
 Options:
   `-h`, `--help`            show this help message and exit
