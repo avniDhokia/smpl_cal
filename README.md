@@ -27,8 +27,8 @@ A simple terminal calendar application, written in Python.
 ## Usage
 
 To run, use ```bash
-./smpl_cal.py {create,destroy,view,add,edit,delete} ..
-```
+./smpl_cal.py {create,destroy,view,add,edit,delete} ..```
+
 
 Positional Arguments:
     **`create`**: create a new calendar
